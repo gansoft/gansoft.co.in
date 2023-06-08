@@ -1,5 +1,6 @@
 # gansoft.co.in
 
-gansoftftp@gansoft.co.in
-gansoftftp
+FTP Details
+--gansoftftp@gansoft.co.in
+--gansoftftp
 
